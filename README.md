@@ -21,8 +21,3 @@ This project implements a **responsive PHP dashboard** for managing transactions
 - Tailwind CSS  
 - Font Awesome  
 - (Optional) MySQL for database integration  
-
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/task2-dashboard.git
